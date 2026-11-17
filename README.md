@@ -25,6 +25,6 @@ curl https://phosor.ai/api/v1/inference/submit \
 Image to video uses `minimax/h3/image-to-video`.
 Reference to video uses `minimax/h3/reference-to-video`.
 
-API docs: https://phosor.ai/docs/models/minimax-h3?utm_source=github&utm_medium=referral&utm_campaign=h3_lowest_price_202611&utm_content=github_en_01
+Phosor: https://phosor.ai/?utm_source=github&utm_medium=referral&utm_campaign=h3_lowest_price_202611&utm_content=github_en_03
 
 H3 Image: https://phosor.ai/models/minimax-h3-image
